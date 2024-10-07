@@ -1,0 +1,14 @@
+debug/buy_good.o
+debug/good_add.o
+debug/logon.o
+debug/main.o
+debug/manager.o
+debug/signup.o
+debug/widget.o
+debug/qrc_add.o
+debug/moc_buy_good.o
+debug/moc_good_add.o
+debug/moc_logon.o
+debug/moc_manager.o
+debug/moc_signup.o
+debug/moc_widget.o

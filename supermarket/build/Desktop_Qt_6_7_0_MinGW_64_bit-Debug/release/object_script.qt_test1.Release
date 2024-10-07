@@ -1,0 +1,14 @@
+release/buy_good.o
+release/good_add.o
+release/logon.o
+release/main.o
+release/manager.o
+release/signup.o
+release/widget.o
+release/qrc_add.o
+release/moc_buy_good.o
+release/moc_good_add.o
+release/moc_logon.o
+release/moc_manager.o
+release/moc_signup.o
+release/moc_widget.o
